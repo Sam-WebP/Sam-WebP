@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Sam-WebP&base=1700)
 
-
+I enjoy building web applications and working on personal software projects to expand my skill set and apply the knowledge gained through my degree to real-world scenarios. This hands-on experience allows me to continually enhance my problem-solving abilities, stay up-to-date with the latest technologies, and further develop my technical expertise.
 <!--
 **Sam-WebP/Sam-WebP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
